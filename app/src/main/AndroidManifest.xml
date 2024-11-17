@@ -31,7 +31,7 @@
         </activity>
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCO1_xv3TpxT_BeFkwbVNNLzv6JriJZ4uA" />
+            android:value="AIzaSyDBtgPIpnHLAIiTVvI0fnHNQzIdjVDRCSY" />
 
 
         <activity android:name=".ui.addPlaceMark.AddPlaceMarkActivity" />
